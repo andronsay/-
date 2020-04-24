@@ -10,4 +10,5 @@
 
 ## Работа программы
 Работа программы очень проста, выбираете нужную фразу и двойным нажатием эта фраза воспроизводится оригинальным (русским) голосом Патруля Альянса.
+
 ![GolosPatrulaAliansa](https://github.com/andronsay/GolosPatrulaAliansa/raw/master/github/work_1.jpg)
