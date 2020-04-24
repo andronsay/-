@@ -3,9 +3,10 @@
 
 ![GolosPatrulaAliansa](https://github.com/andronsay/GolosPatrulaAliansa/raw/master/github/main.jpg)
 
-## Как это работает
+## Как начать работу
 1. Установите, настройте и направьте свою веб камеру во двор или используйте общедоступную камеру, расположенную рядом с вашим домом.
 2. Подключите ваши колонки или любое другое устройство воспроизведения звука к вашему компьютеру.
 3. Запустите программу GolosPatrulaAliansa и высказывайте свое общественное порицание людям, которые нарушают рекомендуемый режим самоизоляции.
 
-
+## Работа программы
+![GolosPatrulaAliansa](https://github.com/andronsay/GolosPatrulaAliansa/raw/master/github/work_1.jpg)
